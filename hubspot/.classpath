@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files(1)/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files(1)/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/jar_files(2).zip"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/selenium-server-standalone-3.141.59(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/Selenium/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MohanaKrishnanRajara/Downloads/jar_files(3)/webdrivermanager-3.8.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
